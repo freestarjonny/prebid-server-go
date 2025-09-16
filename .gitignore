@@ -36,7 +36,7 @@ prebid-server
 __debug_bin
 
 # config files
-pbs.*
+# pbs.* - remove this for now, to allow for local testing
 inventory_url.yaml
 
 # generated log files during tests
